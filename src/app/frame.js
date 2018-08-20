@@ -34,7 +34,7 @@ class Frame extends React.Component{
                 return(
                     <div className="frame---tool-panel">
                         <div className="frame---navigation-button">
-                            <ArrowUpwardIcon size="1em" tabIndex="0" onClick={this.up}/>
+                            <ArrowUpwardIcon size="1.2em" tabIndex="0" onClick={this.up}/>
                         </div>  
                     </div>
                 );

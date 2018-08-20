@@ -1,7 +1,13 @@
+@font-face
+{
+    src:url('PlayfairDisplay-Regular.ttf');
+    font-family:Main;
+}
+
 :root
 {
-    font-size:2.03em;
-    font-family:Georgia;
+    font-size:2.13em;
+    font-family:Verdana;
     letter-spacing:0.7px;
 }
 
@@ -67,4 +73,15 @@ html,body
     height:100%;
     overflow-y:hidden;
     display:flex;
+}
+
+.global---page-title
+{
+    font-size:1rem;
+}
+
+.global---page-section
+{
+    font-size:0.6rem;
+    padding:0.3rem;
 }

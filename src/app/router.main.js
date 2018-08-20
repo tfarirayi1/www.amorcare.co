@@ -1,7 +1,8 @@
 import React            from 'react';
 import IndexPage        from 'page.index';
-import GlossaryPage     from 'page.glossary';
-import RegisterPage     from 'page.register';
+import ContactPage      from 'page.contact';
+import AboutPage        from 'page.about';
+import ServicesPage     from 'page.services';
 import BlankPage        from 'page.blank';
 import LoginRouter      from 'router.login';
 import RouteBroker      from 'broker.route';
@@ -26,13 +27,18 @@ export default class MainRouter extends React.Component{
                 exact:false,
             },
             {
-                endpoint:'/register',
-                component:RegisterPage,
+                endpoint:'/about',
+                component:AboutPage,
                 exact:true,
             },
             {
-                endpoint:'/glossary',
-                component:GlossaryPage,
+                endpoint:'/contact',
+                component:ContactPage,
+                exact:true,
+            },
+            {
+                endpoint:'/services',
+                component:ServicesPage,
                 exact:true,
             },
         ];

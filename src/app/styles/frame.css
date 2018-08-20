@@ -2,7 +2,6 @@
 
 .frame
 {
-    background-image:linear-gradient(rgba(247,247,247,1),rgba(151,151,151 ,1));
     width:100%;
     height:100%;
     padding:1%;
@@ -17,7 +16,7 @@
 .frame---view-panel
 {
     padding:0.3rem;
-    max-width:13rem;
+    max-width:17rem;
 }
 
 .frame---tool-panel

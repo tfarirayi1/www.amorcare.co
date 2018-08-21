@@ -7,6 +7,10 @@ export default class IndexPage extends React.Component{
         return(
             <div className="index">
                 <div>
+                    <div className="index---brand-name">Amor Care</div> 
+                    <div className="index---brand-slogan">Loving. Caring. Support.</div>
+                </div>
+                <div>
                     <Link to="/about">about</Link>
                 </div>
                 <div>

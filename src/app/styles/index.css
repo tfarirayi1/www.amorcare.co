@@ -1,3 +1,15 @@
+@font-face
+{
+    font-family:brand-bold;
+    src:url('PlayfairDisplay-Black.ttf');
+}
+
+@font-face
+{
+    font-family:brand-italic;
+    src:url('PlayfairDisplay-Italic.ttf');
+}
+
 .index
 {
     height:100%;
@@ -7,4 +19,17 @@
     flex-direction:column;
     justify-content:center;
     padding-bottom:3rem;
+}
+
+.index---brand-name
+{
+    font-family:brand-bold;
+    font-size:1.2rem;
+}
+
+.index---brand-slogan
+{
+    font-family:brand-italic;
+    font-size:0.7rem;
+    padding-left:0.3rem;
 }

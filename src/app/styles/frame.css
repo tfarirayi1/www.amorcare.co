@@ -17,11 +17,15 @@
 {
     padding:0.3rem;
     max-width:17rem;
+    overflow-x:hidden;
+    word-wrap:break-word;
+
+    height:100%;
 }
 
 .frame---tool-panel
 {
-    display:table;
+    display:block;
     position:sticky;
     top:0;
 }

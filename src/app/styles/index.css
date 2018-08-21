@@ -1,4 +1,10 @@
-.index---neutral
+.index
 {
-    padding:1rem;
+    height:100%;
+    width:100%;
+    margin:auto;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    padding-bottom:3rem;
 }

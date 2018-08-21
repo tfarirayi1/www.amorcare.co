@@ -15,9 +15,9 @@ export default class ServicesPage extends React.Component{
                 </div>
                 <div className="global---page-section">
                     <div>
-                        Provision of Support Workers and Care Assistants for Autism, Learning Disability and Mental Health care homes, on-demand; 
+                        On-demand provision of <em>Support Workers</em> and <em>Care Assistants</em> for Autism, Learning Disability and Mental Health care homes&#59;
                     </div>
-                    <div className="services---service-note">
+                    <div>
                         We cover Day, Night and Sleep-in shift schedules.
                     </div>
                 </div>
@@ -25,8 +25,8 @@ export default class ServicesPage extends React.Component{
                     <div>
                         Free induction allowance;
                     </div>
-                    <div className="services---service-note">
-                        the first two hours of each assigned staff member's shift with a client are not charged if the worker has not been assigned to that client before.
+                    <div>
+                        The first two hours of each assigned staff member's shift with a client are not charged if the worker has not been assigned to that client before.
                     </div>
                 </div>
             </div>

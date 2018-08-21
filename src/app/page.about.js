@@ -18,7 +18,12 @@ export default class AboutPage extends React.Component{
                         Philosophy&mdash;
                     </div>
                     <div className="about---philosophy-text">
-                        Amor Care believes in continuity and stability for both clients and staff. We encourage regularity by assigning each worker to a particular type of care service and providing free two-hour induction allowances per worker-client relationship.
+                        <div>
+                            Amor Care believes in continuity and stability for both clients and staff.
+                        </div> 
+                        <div>
+                            We encourage regularity by assigning each worker to a particular type of care service and providing free two-hour induction allowances per worker-client relationship.
+                        </div>
                     </div>
                 </div>
                 <div className="global---page-section">

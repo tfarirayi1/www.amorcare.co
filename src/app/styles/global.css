@@ -11,9 +11,9 @@
 }
 :root
 {
-    font-size:2.13em;
-    font-family:Verdana;
-    letter-spacing:0.7px;
+    font-size:1.7em;
+    font-family:Georgia;
+    letter-spacing:0.5px;
 }
 
 *
@@ -49,14 +49,47 @@ a:before{
 input,textarea,select
 {
     display:table;
-    max-width:100%;
+    width:100%;
     /* border:none; */
-    background-color:rgba(0,0,0,0);
+    /* border-left:0.1rem solid rgba(0,0,0,1); */
+    /* border-bottom:0.1rem solid rgba(0,0,0,0.3); */
+    /* background-color:rgba(0,0,0,1); */
+    /* color:white; */
     /* appearance:none; */
     /* -webkit-appearance:none; */
     /* -moz-appearance:none; */
     resize:none;
-    padding:0.1rem;
+    /* padding:0.1rem; */
+}
+
+input[type="text"]
+{
+    appearance:none; 
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    padding:0.3rem;
+    border:none;
+    border-radius:0.1rem;
+    border:1px solid rgba(0,0,0,0.3);
+}
+
+textarea
+{
+    padding:0.3rem;
+    border:none;
+    border-radius:0.1rem;
+    border:1px solid rgba(0,0,0,0.3);
+}
+
+textarea:focus
+{
+    border:1px solid rgba(0,0,0,1);
+}
+
+label
+{
+    display:block;
+    padding-bottom:0.1rem;
 }
 
 html,body

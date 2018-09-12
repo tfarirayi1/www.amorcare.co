@@ -40,7 +40,6 @@ class Frame extends React.Component{
                 );
             }
         };
-        
         return(
             <div className="frame">
                 <ToolPanel/>

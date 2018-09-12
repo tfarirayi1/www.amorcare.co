@@ -1,9 +1,14 @@
 {
-  "main.css": "static/css/main.51eeb75d.css",
-  "main.css.map": "static/css/main.51eeb75d.css.map",
-  "main.js": "static/js/main.17ad8372.js",
-  "main.js.map": "static/js/main.17ad8372.js.map",
+  "main.css": "static/css/main.0c770f47.css",
+  "main.css.map": "static/css/main.0c770f47.css.map",
+  "main.js": "static/js/main.6f5e2b46.js",
+  "main.js.map": "static/js/main.6f5e2b46.js.map",
   "static/media/PlayfairDisplay-Black.ttf": "static/media/PlayfairDisplay-Black.7b98c94e.ttf",
   "static/media/PlayfairDisplay-Italic.ttf": "static/media/PlayfairDisplay-Italic.8bd038cd.ttf",
-  "static/media/PlayfairDisplay-Regular.ttf": "static/media/PlayfairDisplay-Regular.2ec4a352.ttf"
+  "static/media/PlayfairDisplay-Regular.ttf": "static/media/PlayfairDisplay-Regular.2ec4a352.ttf",
+  "static/media/image5.jpeg": "static/media/image5.72f2c688.jpeg",
+  "static/media/image6.jpeg": "static/media/image6.b9681413.jpeg",
+  "static/media/image7.jpeg": "static/media/image7.923f9825.jpeg",
+  "static/media/image8.jpeg": "static/media/image8.a2af6660.jpeg",
+  "static/media/image9.jpeg": "static/media/image9.b6dccca7.jpeg"
 }

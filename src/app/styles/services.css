@@ -1,0 +1,15 @@
+.services
+{
+    /* background-image:url('../images/image6.jpeg'); */
+}
+
+.service-image
+{
+    width:100%;
+    height:auto;
+}
+
+.services---image
+{
+    display:flex;
+}
